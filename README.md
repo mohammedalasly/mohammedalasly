@@ -10,6 +10,10 @@ Hi there 👋!! <br>I'm Mohammad 😀<br><br>I'm a Blockchain Developer🥳<br>�
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,js,react,tailwind,bootstrap,nodejs,nextjs,html,css,git)](https://skillicons.dev)
 
+##
+
+<img src="https://101blockchains.com/wp-content/uploads/2022/08/hardhat-1-150x150.png" width= 80px/>
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=mohammedalasly&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
