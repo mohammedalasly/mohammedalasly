@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋!! <br>I'm Mohammad 😀<br><br>I'm a Blockchain Developer🥳<br>🌱 I’m currently learning **Web3** from **[Alchemy University](https://university.alchemy.com/home), [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ), and [Udemy](https://www.udemy.com/)**<br>⚡ Fun fact about me, i'll let you know later!
+Hi there 👋!! <br>I'm Mohammad 😀<br> <br>I'm A Blockchain Developer🥳<br>🌱 I’m currently learning **Web3** from **[Alchemy University](https://university.alchemy.com/home), [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ), and [Udemy](https://www.udemy.com/)**<br>⚡ Fun fact about me
 
 ## 🌐 Socials:
 
@@ -10,10 +10,25 @@ Hi there 👋!! <br>I'm Mohammad 😀<br><br>I'm a Blockchain Developer🥳<br>�
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,js,react,tailwind,bootstrap,nodejs,nextjs,html,css,git)](https://skillicons.dev)
 
+##
+
+<img src="https://101blockchains.com/wp-content/uploads/2022/08/hardhat-1-150x150.png" width= 80px/>
+<img src="https://i.postimg.cc/281xB1M5/logo.png" width= 60px/>
+<img src="https://i.postimg.cc/RF3ZMT69/Ipfs-logo-1024-ice-text.png" width= 60px/>
+<img src="https://i.postimg.cc/Y9cNc7xz/coinbase-cloud-ethersjs-removebg-preview.png" width= 90px/>
+
+##
+
+<img src="https://i.postimg.cc/KvfL8BmV/Chainlink-logo.jpg" width= 130px/>
+<img src="https://i.postimg.cc/Hk5KC8sK/03-FC3-EFD-C943-44-A1-BC1-F-9-B70258-C1-A0-A.jpg" width= 185px/>
+<img src="https://i.postimg.cc/wvGY0tVB/62a1f017e3f284c5ff001063-pinata-featured-image-removebg-preview-2.png" width= 140px/>
+<img src="https://i.postimg.cc/CKDVmM2C/metamask4112.jpg" width=160px/>
+<img src="https://i.postimg.cc/DZk21p2z/1-6-Cbo1-WZ499-BM4b8-Q7-Ziyug.png" width= 85px/>
+<img src="https://i.postimg.cc/x1JgB62Y/openzeppelin-logo-vector.png" width= 85px/>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mohammedalasly&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mohammedalasly&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammedalasly&theme=vue-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalasly&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
