@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋!! <br>I'm Mohammad 😀<br> <br>I'm A Blockchain Developer🥳<br>🌱 I’m currently learning **Web3** from **[Alchemy University](https://university.alchemy.com/home), [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ), and [Udemy](https://www.udemy.com/)**<br>⚡ Fun fact about me: I'll let you know later!
+Hi there 👋!!<br>I'm Mohammad 😀<br>a Blockchain Developer🥳<br>🌱 I’m currently learning **Web3** from **[Alchemy University](https://university.alchemy.com/home), [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ), and [Udemy](https://www.udemy.com/)**<br>⚡ Fun fact about me: I'll let you know later!
 
 ## 🌐 Socials:
 
@@ -9,6 +9,11 @@ Hi there 👋!! <br>I'm Mohammad 😀<br> <br>I'm A Blockchain Developer🥳<br>
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,js,react,tailwind,bootstrap,nodejs,nextjs,html,css,git)](https://skillicons.dev)
+
+# Licenses & certifications:
+- [Ethereum Blockchain Developer Bootcamp with Solidity - Udemy](https://www.udemy.com/certificate/UC-1f885659-c724-4046-bcce-93e3a8c3b225/)
+- [The Complete NFT Web Development Course - Udemy](https://www.udemy.com/certificate/UC-835725bf-d93e-4670-8e3d-081e9b873864/)
+- [Complete DApp - Solidity& React - Blockchain Development - Udemy](https://www.udemy.com/certificate/UC-24b8f495-169e-4cb5-936a-c9fa93c191f6/)
 
 # 📊 GitHub Stats:
 
