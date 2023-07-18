@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there!!👋<br>I'm Mohammad 😀<br>Front-end & Blockchain Developer🥳<br>🌱 I’m currently learning **Web3** from **[Alchemy University](https://university.alchemy.com/home)<br> [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)<br> [Udemy](https://www.udemy.com/)**<br>⚡ Fun fact about me: I'm an Executive Director @ **[Global Connect Courses, Inc](https://www.globalconnectcourses.com/the-team)**
+Hi there!!👋<br>I'm Mohammad 😀<br>Front-end & Blockchain Developer🥳<br>🌱 I’m currently learning **Web3** from:<br>**[Alchemy University](https://university.alchemy.com/home) [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ)<br> [Udemy](https://www.udemy.com/)**<br>⚡ Fun fact about me: I'm an Executive Director @ **[Global Connect Courses, Inc](https://www.globalconnectcourses.com/the-team)**
 
 ## 🌐 Socials:
 
