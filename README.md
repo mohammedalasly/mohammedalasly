@@ -11,7 +11,7 @@ Hi there!!👋<br>I'm Mohammad 😀<br>Front-end Developer🥳<br>🌱 I’m cur
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,js,react,tailwind,bootstrap,nodejs,nextjs,html,css,git,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,tailwind,vite,nodejs,nextjs,ts,firebase,py,solidity)](https://skillicons.dev)
 
 ## Licenses & certifications:
 - [Ethereum Blockchain Developer Bootcamp with Solidity - Udemy](https://www.udemy.com/certificate/UC-1f885659-c724-4046-bcce-93e3a8c3b225/)
