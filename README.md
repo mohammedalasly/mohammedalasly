@@ -14,6 +14,7 @@ Hi there!!👋<br>I'm Mohammad 😀<br>Front-end Developer🥳<br>🌱 I’m cur
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,tailwind,vite,nodejs,nextjs,ts,firebase,py,solidity)](https://skillicons.dev)
 
 ## Licenses & certifications:
+- [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/eb7038e2e651456998377902dab700ca)
 - [Ethereum Blockchain Developer Bootcamp with Solidity - Udemy](https://www.udemy.com/certificate/UC-1f885659-c724-4046-bcce-93e3a8c3b225/)
 - [The Complete NFT Web Development Course - Udemy](https://www.udemy.com/certificate/UC-835725bf-d93e-4670-8e3d-081e9b873864/)
 - [Complete DApp - Solidity& React - Blockchain Development - Udemy](https://www.udemy.com/certificate/UC-24b8f495-169e-4cb5-936a-c9fa93c191f6/)
