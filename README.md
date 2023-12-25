@@ -14,6 +14,7 @@ Hi there!!👋<br>I'm Mohammad 😀<br>Front-end Developer🥳<br>🌱 I’m cur
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,tailwind,vite,nodejs,nextjs,ts,firebase,py,solidity)](https://skillicons.dev)
 
 ## Licenses & certifications:
+- [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/c026b100bb4d4bd58aff2c13913e281a)
 - [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/eb7038e2e651456998377902dab700ca)
 - [HTML, CSS, and Javascript for Web Developers](https://coursera.org/share/fe7bc788e4001d4d2c9829380e2fa1bf)
 - [Responsive Website Basics: Code with HTML, CSS, and JavaScript](https://coursera.org/share/c6b53dce4e3853b215b63e7c389613eb)
