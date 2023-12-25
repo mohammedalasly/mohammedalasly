@@ -3,17 +3,18 @@
 Hi there!!👋<br>I'm Mohammad 😀<br>Front-end Developer🥳<br>🌱 I’m currently learning **Web3** from: **[Alchemy University](https://university.alchemy.com/home), [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ), and [Udemy](https://www.udemy.com/)**<br>
 🌱 Learning Frontend Developer Career Path @ **[Scrimba](https://scrimba.com/learn/frontend)**<br>
 🌱 Learning Computer and Data Science @ **[MIT](https://emergingtalent.mit.edu/)**<br>
-⚡ Fun fact about me: I'm an Executive Director @ **[Global Connect Courses, Inc](https://www.globalconnectcourses.com/the-team)**
+💼 Working as an Executive Director @ **[Global Connect Courses, Inc](https://www.globalconnectcourses.com/the-team)**
+⚡ Fun fact about me: I'm always open to new opportunities 🌟
 
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4488) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mohammed.alasly.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_alasli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalasli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohamad_alasli)
 
-# 💻 Tech Stack:
+# 👨‍💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,tailwind,vite,nodejs,nextjs,ts,firebase,py,solidity)](https://skillicons.dev)
 
-## Licenses & certifications:
+## 📜 Licenses & certifications:
 - [Introduction to Computational Thinking and Data Science](https://courses.edx.org/certificates/c026b100bb4d4bd58aff2c13913e281a)
 - [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/certificates/eb7038e2e651456998377902dab700ca)
 - [HTML, CSS, and Javascript for Web Developers](https://coursera.org/share/fe7bc788e4001d4d2c9829380e2fa1bf)
