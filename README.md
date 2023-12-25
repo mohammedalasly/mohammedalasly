@@ -20,7 +20,6 @@ Hi there!!👋<br>I'm Mohammad 😀<br>Front-end Developer🥳<br>🌱 I’m cur
 - [Complete DApp - Solidity& React - Blockchain Development - Udemy](https://www.udemy.com/certificate/UC-24b8f495-169e-4cb5-936a-c9fa93c191f6/)
 
 
-## 🐦 Latest Tweet
 
 [![](https://gtce.itsvg.in/api?username=mohamad_alasli)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
