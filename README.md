@@ -19,13 +19,6 @@ Hi there!!👋<br>I'm Mohammad 😀<br>Front-end Developer🥳<br>🌱 I’m cur
 - [Responsive Website Basics: Code with HTML, CSS, and JavaScript](https://coursera.org/share/c6b53dce4e3853b215b63e7c389613eb)
 - [Complete DApp - Solidity& React - Blockchain Development - Udemy](https://www.udemy.com/certificate/UC-24b8f495-169e-4cb5-936a-c9fa93c191f6/)
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=mohammedalasly&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mohammedalasly&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 
