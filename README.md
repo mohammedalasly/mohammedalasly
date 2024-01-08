@@ -5,7 +5,7 @@ Hi there!!👋<br>I'm Mohammad 😀<br>Front-end Developer🥳<br>
 🌱 Learning Frontend Developer Career Path @ **[Scrimba](https://scrimba.com/learn/frontend)**<br>
 🌱 Learning **Web3/Blockchain Technology** from: **[Alchemy University](https://university.alchemy.com/home), [FreeCodeCamp](https://www.youtube.com/watch?v=gyMwXuJrbJQ), and [Udemy](https://www.udemy.com/)**<br>
 💼 Working as an Executive Director @ **[Global Connect Courses, Inc](https://www.globalconnectcourses.com/the-team)**<br>
-⚡ Fun fact about me: I'm always open to new opportunities 🌟
+⚡ Fun fact about me: The first flight I ever took was from Athens, Greece to Samos Island ✈️
 
 ## 🌐 Socials:
 
