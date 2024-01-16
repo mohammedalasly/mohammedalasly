@@ -1,7 +1,7 @@
 ![Masterhead](https://scrimba.com/articles/content/images/2022/08/Frontend-Developer-vs-Web-Designer-1.png)
 <h1 align="center">Hi 👋, I'm Mohammad Alasli</h1>
 <h2 align="center">Front-End Developer</h2>
-<img align="right" alt="Coding" width="200"src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877">
+<img align="right" alt="Coding" width="200"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p>
 🌱 Learning Computer and Data Science @ <a href="https://emergingtalent.mit.edu/">MIT</a><br>
