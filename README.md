@@ -1,15 +1,15 @@
 ![Masterhead](https://scrimba.com/articles/content/images/2022/08/Frontend-Developer-vs-Web-Designer-1.png)
 <h1 align="center">Hi 👋, I'm Mohammad Alasli</h1>
 <h2 align="center">Front-End Developer</h2>
-<img align="right" alt="Coding" width="200"src="https://q-the-hacker.com/post-images/hello-world.png">
+<!-- <img align="right" alt="Coding" width="200"src="https://q-the-hacker.com/post-images/hello-world.png"> -->
 
 <p>
-🌱 Learning Computer and Data Science @ <a href="https://emergingtalent.mit.edu/">MIT</a><br>
-🌱 Learning Frontend Developer Career Path @ <a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
-🌱 Learning Web3/Blockchain Technology from: <a href="https://university.alchemy.com/home">Alchemy University</a>, <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ">FreeCodeCamp</a>, and <a href="https://www.udemy.com/">Udemy</a><br>
-⚡ Fun fact about me: The first flight I ever took was from Athens, Greece to Samos Island ✈️<br>
-💬 Ask me about: 🤓 <strong>Coding!</strong><br>
-📫 How to reach me? 👉 mohammedalasly5@gmail.com
+🌱<strong>Learning Computer and Data Science @</strong> <a href="https://emergingtalent.mit.edu/">MIT</a><br>
+🌱<strong>Learning Frontend Developer Career Path @</strong><a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
+🌱<strong>Learning Web3/Blockchain Technology from:</strong><a href="https://university.alchemy.com/home">Alchemy University</a>, <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ">FreeCodeCamp</a>, and <a href="https://www.udemy.com/">Udemy</a><br>
+⚡<strong>Fun fact about me:</strong>The first flight I ever took was from Athens, Greece to Samos Island ✈️<br>
+💬<strong>Ask me about:</strong> 🤓Coding!<br>
+📫<strong>How to reach me?</strong> 👉 mohammedalasly5@gmail.com
 </p>
 <br>
 
