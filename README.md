@@ -3,7 +3,7 @@
 <h2 align="center">Front-End Developer</h2>
 
 ``` js
-I am actively seeking to land my first professional opportunity in the field, aiming to kickstart my dream career.
+I am actively seeking to land my first professional role in the field, aiming to kickstart my dream career.
 ```
 <br>
 
