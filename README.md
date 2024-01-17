@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alasli</h1>
 <h2 align="center">Front-End Developer</h2>
 
-``` js
-I am actively seeking to land my first professional role in the field, aiming to kickstart my dream career.
-```
+***`I am actively seeking to land my first professional opportunity in the field, aiming to kickstart my dream career.`***
+
+
 <br>
 
 <!-- <img align="right" alt="Coding" width="200"src="https://q-the-hacker.com/post-images/hello-world.png"> -->
