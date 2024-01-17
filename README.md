@@ -1,11 +1,14 @@
 ![Masterhead](https://scrimba.com/articles/content/images/2022/08/Frontend-Developer-vs-Web-Designer-1.png)
 <h1 align="center">Hi 👋, I'm Mohammad Alasli</h1>
 <h2 align="center">Front-End Developer</h2>
-<h5 align="center">I am actively seeking to land my first professional opportunity in the field, aiming to kickstart my dream career.</h5>
 
+``` js
+I am actively seeking to land my first professional opportunity in the field, aiming to kickstart my dream career.
+```
+<br>
 
 <!-- <img align="right" alt="Coding" width="200"src="https://q-the-hacker.com/post-images/hello-world.png"> -->
-
+## 💫 About Me:
 <p>
 🌱<strong>Learning Computer and Data Science @</strong> <a href="https://emergingtalent.mit.edu/">MIT</a><br>
 🌱<strong>Learning Frontend Developer Career Path @</strong><a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
