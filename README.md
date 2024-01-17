@@ -10,12 +10,12 @@
 <!-- <img align="right" alt="Coding" width="200"src="https://q-the-hacker.com/post-images/hello-world.png"> -->
 ## 💫 About Me:
 <p>
-🌱<strong>Learning Computer and Data Science @</strong> <a href="https://emergingtalent.mit.edu/">MIT</a><br>
-🌱<strong>Learning Frontend Developer Career Path @</strong><a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
-🌱<strong>Learning Web3/Blockchain Technology from:</strong><a href="https://university.alchemy.com/home">Alchemy University</a>, <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ">FreeCodeCamp</a>, and <a href="https://www.udemy.com/">Udemy</a><br>
+🌱 <strong>Learning Computer and Data Science @</strong> <a href="https://emergingtalent.mit.edu/">MIT</a><br>
+🌱 <strong>Learning Frontend Developer Career Path @</strong><a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
+🌱 <strong>Learning Web3/Blockchain Technology from:</strong><a href="https://university.alchemy.com/home">Alchemy University</a>, <a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ">FreeCodeCamp</a>, and <a href="https://www.udemy.com/">Udemy</a><br>
 ⚡<strong>Fun fact about me:</strong>The first flight I ever took was from Athens, Greece to Samos Island ✈️<br>
-💬<strong>Ask me about:</strong> 🤓Coding!<br>
-📫<strong>How to reach me?</strong> 👉 mohammedalasly5@gmail.com
+💬 <strong>Ask me about:</strong> 🤓Coding!<br>
+📫 <strong>How to reach me?</strong> 👉 mohammedalasly5@gmail.com
 </p>
 <br>
 
