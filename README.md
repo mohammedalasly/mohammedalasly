@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alasli</h1>
 <h2 align="center">Front-End Developer</h2>
 
-***`I am actively seeking to land my first professional opportunity in the field, aiming to kickstart my dream career.`***
+***` I am actively seeking to land my first professional opportunity in the field, aiming to kickstart my dream career.`***
 
 
 <br>
@@ -20,7 +20,7 @@
 <br>
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4488) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mohammed.alasly.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_alasli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalasli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mohamad_alasli)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4488) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mohammed.alasly.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_alasli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalasli) [![Twitter](https://img.shields.io/twitter/follow/:user)](https://twitter.com/mohamad_alasli)
 <br>
 <br>
 
