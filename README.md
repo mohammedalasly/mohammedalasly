@@ -32,25 +32,18 @@
 <br>
 ## 📜 Licenses & certifications:
 <ul>
-<h4><a href="https://courses.edx.org/certificates/c026b100bb4d4bd58aff2c13913e281a">Introduction to Computational Thinking and Data Science</a>
-</h4>
+  <li><a href="https://courses.edx.org/certificates/c026b100bb4d4bd58aff2c13913e281a">Introduction to Computational Thinking and Data Science</a>
+  </li>
+  <li><a href="https://courses.edx.org/certificates/eb7038e2e651456998377902dab700ca">Introduction to Computer Science and Programming Using Python</a>
+  </li>
+  <li><a href="https://coursera.org/share/fe7bc788e4001d4d2c9829380e2fa1bf">HTML, CSS, and Javascript for Web Developers</a>
+  </li>
+  <li><a href="https://coursera.org/share/c6b53dce4e3853b215b63e7c389613eb">Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
+  </li>
+  <li><a href="https://www.udemy.com/certificate/UC-24b8f495-169e-4cb5-936a-c9fa93c191f6/">Complete DApp - Solidity& React - Blockchain Development - Udemy</a>
+  </li>
 </ul>
-<ul>
-<h4><a href="https://courses.edx.org/certificates/eb7038e2e651456998377902dab700ca">Introduction to Computer Science and Programming Using Python</a>
-</h4>
-</ul>
-<ul>
-<h4><a href="https://coursera.org/share/fe7bc788e4001d4d2c9829380e2fa1bf">HTML, CSS, and Javascript for Web Developers</a>
-</h4>
-</ul>
-<ul>
-<h4><a href="https://coursera.org/share/c6b53dce4e3853b215b63e7c389613eb">Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
-</h4>
-</ul>
-<ul>
-<h4><a href="https://www.udemy.com/certificate/UC-24b8f495-169e-4cb5-936a-c9fa93c191f6/">Complete DApp - Solidity& React - Blockchain Development - Udemy</a>
-</h4>
-</ul>
+
 <br>
 <br>
 <p><img align="center"width="350"src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedalasly&show_icons=true&locale=en&layout=compact" alt="mohammedalasly" /></p>
