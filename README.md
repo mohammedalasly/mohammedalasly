@@ -11,7 +11,7 @@
 
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="300" alt="Mohammad Alasli's Dev Card"/></a>
 
-## 💫 About Me:
+# 💫 About Me:
 <p>
 🌱 <strong>Learning Computer and Data Science @</strong> <a href="https://emergingtalent.mit.edu/">MIT</a><br>
 🌱 <strong>Learning Frontend Developer Career Path @</strong><a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
@@ -24,21 +24,21 @@
 <br>
 <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4488) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mohammed.alasly.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_alasli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalasli) [![Twitter](https://img.shields.io/twitter/follow/:user)](https://twitter.com/mohamad_alasli)
 <br>
 <br>
 <br>
 <br>
 
-## 👨‍💻 Tech Stack:
+# 👨‍💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,bootstrap,tailwind,figma,vite,nodejs,nextjs,ts,firebase,py,flask,solidity)](https://skillicons.dev)
 
 <br>
 <br>
 
-## 📜 Licenses & certifications:
+# 📜 Licenses & certifications:
 <ul>
   <li><a href="https://courses.edx.org/certificates/c026b100bb4d4bd58aff2c13913e281a">Introduction to Computational Thinking and Data Science</a>
   </li>
@@ -54,14 +54,14 @@
 <br>
 <br>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
 ![mohammedalasly](https://github-readme-streak-stats.herokuapp.com/?user=mohammedalasly&theme=default&hide_border=false)
 ![mohammedalasly](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedalasly&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br>
 
-## ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!--### 😂 Random Dev Mem-->
