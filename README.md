@@ -64,10 +64,5 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-
-### 😂 Random Dev Mem
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-
-<!-- <img align="right" alt="Coding" width="200"src="https://q-the-hacker.com/post-images/hello-world.png"> -->
-
+<!--### 😂 Random Dev Mem-->
+<!--<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>-->
