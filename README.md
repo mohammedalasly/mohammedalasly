@@ -9,9 +9,8 @@
 <br>
 <br>
 
-<a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="300" alt="Mohammad Alasli's Dev Card"/></a>
-
 # 💫 About Me:
+<a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
 <p>
 🌱 <strong>Learning Computer and Data Science @</strong> <a href="https://emergingtalent.mit.edu/">MIT</a><br>
 🌱 <strong>Learning Frontend Developer Career Path @</strong><a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
@@ -21,6 +20,9 @@
 📫 <strong>How to reach me?</strong> 👉 mohammedalasly5@gmail.com
 </p>
 
+<br>
+<br>
+<br>
 <br>
 <br>
 
