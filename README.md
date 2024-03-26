@@ -12,12 +12,11 @@
 # 💫 About Me:
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
 <p>
-🌱 <strong>Learning Computer and Data Science @</strong> <a href="https://emergingtalent.mit.edu/">MIT</a><br>
-🌱 <strong>Learning Frontend Developer Career Path @</strong><a href="https://scrimba.com/learn/frontend">Scrimba</a><br>
-🌱 <strong>Learning Web3/Blockchain Technology from:</strong><a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ">FreeCodeCamp</a>, and <a href="https://www.udemy.com/">Udemy</a><br>
-⚡<strong>Fun fact about me:</strong> My First flight ever was from <strong>Athens</strong> to <strong>Samos</strong> Island ✈️<br>
+💼 Currently working @ <strong><a href="https://bookvoice.gr//">Bookvoice</a></strong><br>
+🌱 Learning Computer and Data Science @ <strong><a href="https://emergingtalent.mit.edu/">MIT</a></strong><br>
+🌱 Learning Frontend Developer Career Path @ <strong><a href="https://scrimba.com/learn/frontend">Scrimba</a></strong><br>
+ ⚡ <strong>Fun fact about me:</strong> My First flight ever was from <strong>Athens</strong> to <strong>Samos</strong> Island ✈️<br>
 💬 <strong>Ask me about:</strong> 🤓Coding!<br>
-📫 <strong>How to reach me?</strong> 👉 mohammedalasly5@gmail.com
 </p>
 
 <br>
