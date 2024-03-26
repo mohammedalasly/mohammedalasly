@@ -12,7 +12,7 @@
 # 💫 About Me:
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
 <p>
-💼 Currently working @ <strong><a href="https://bookvoice.gr//">Bookvoice</a></strong><br>
+💼 Currently working (Internship) @ <strong><a href="https://bookvoice.gr//">Bookvoice</a></strong><br>
 🌱 Learning Computer and Data Science @ <strong><a href="https://emergingtalent.mit.edu/">MIT</a></strong><br>
 🌱 Learning Frontend Developer Career Path @ <strong><a href="https://scrimba.com/learn/frontend">Scrimba</a></strong><br>
  ⚡ <strong>Fun fact about me:</strong> My First flight ever was from <strong>Athens</strong> to <strong>Samos</strong> Island ✈️<br>
