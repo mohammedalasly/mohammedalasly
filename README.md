@@ -1,6 +1,6 @@
 ![Masterhead](https://scrimba.com/articles/content/images/2022/08/Frontend-Developer-vs-Web-Designer-1.png)
 <h1 align="center">Hi 👋, I'm Mohammad Alasli</h1>
-<h2 align="center">Front-End Developer</h2>
+<h2 align="center">Software Developer</h2>
 <br>
 <br>
 
