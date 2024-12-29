@@ -3,7 +3,7 @@
 <h2 align="center">Software Developer</h2><br>
 <h3 align="center">I am actively seeking new opportunities</h3><br>
 <p align="center">
-<a href="https://drive.google.com/drive/folders/1KiUuqVph3jU6f24ZWav8FX57k1vf4Bq4"><img alt="Static Badge" src="https://img.shields.io/badge/Download%20My%20CV-A1D6CB" width="180">
+<a href="https://drive.google.com/drive/folders/1KiUuqVph3jU6f24ZWav8FX57k1vf4Bq4"><img alt="Static Badge" src="https://img.shields.io/badge/Download%20My%20CV-FFF574" width="180">
 </a>
 </p><br>
 
