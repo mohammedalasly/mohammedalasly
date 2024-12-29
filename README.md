@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Mohammad Alasli</h1>
 <h2 align="center">Software Developer</h2><br>
 <h3 align="center">I am actively seeking new opportunities</h3><br>
-<h4 align="center">
+<p align="center">
 <a href="https://drive.google.com/drive/folders/1KiUuqVph3jU6f24ZWav8FX57k1vf4Bq4"><img alt="Static Badge" src="https://img.shields.io/badge/Download%20My%20CV-006BFF" width="150">
 </a>
-</h4><br>
+</p><br>
 
 # 💫 About Me:
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
