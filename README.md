@@ -4,14 +4,16 @@
 <br>
 <br>
 
-<h2 align="center" background="gray">I am actively seeking new opportunities</h2>
+<h3 align="center">I am actively seeking new opportunities</h3>
 
+<br>
 <br>
 <br>
 
 # 💫 About Me:
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
 <p>
+<button>📑 Download My Resume here</button>
 💼 Python Developer (LLM Testing on AWS SageMaker) @ <strong><a href="https://naamal.org/">Na'amal Agency</a></strong> (project)<br>
 💼 Front-end Developer @ <strong><a href="https://bookvoice.gr/">Bookvoice</a></strong> (internship)<br>
 🌱 Learning Computer and Data Science @ <strong><a href="https://emergingtalent.mit.edu/">MIT</a></strong><br>
