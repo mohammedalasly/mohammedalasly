@@ -6,7 +6,6 @@
 <a href="https://drive.google.com/drive/folders/1KiUuqVph3jU6f24ZWav8FX57k1vf4Bq4"><img alt="Static Badge" src="https://img.shields.io/badge/Download%20My%20CV-006BFF" width="180">
 </a>
 </p><br>
-![Static Badge](https://img.shields.io/badge/download-blue)
 
 # 💫 About Me:
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
