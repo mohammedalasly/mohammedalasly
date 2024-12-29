@@ -13,7 +13,7 @@
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
 <p>
 💼 Python Developer(LLM Testing on AWS SageMaker) @ <strong><a href="https://naamal.org/">Na'amal Agency</a></strong><be> (2-months project)
-💼 Front-end Developer @ <strong><a href="https://bookvoice.gr/">Bookvoice</a></strong><br> (internship)
+💼 Front-end Developer @ <strong><a href="https://bookvoice.gr/">Bookvoice</a></strong><br> (internship)<br>
 🌱 Learning Computer and Data Science @ <strong><a href="https://emergingtalent.mit.edu/">MIT</a></strong><br>
 🌱 Learning Frontend Developer Career Path @ <strong><a href="https://scrimba.com/learn/frontend">Scrimba</a></strong><br>
  ⚡ <strong>Fun fact about me:</strong> My First flight ever was from <strong>Athens</strong> to <strong>Samos</strong> Island ✈️<br>
@@ -39,7 +39,7 @@
 
 # 👨‍💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,svelte,figma,vite,nodejs,nextjs,ts,firebase,py,flask,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,svelte,figma,vite,nodejs,nextjs,ts,firebase,py,flask)](https://skillicons.dev)
 
 <br>
 <br>
@@ -53,8 +53,6 @@
   <li><a href="https://coursera.org/share/fe7bc788e4001d4d2c9829380e2fa1bf">HTML, CSS, and Javascript for Web Developers</a>
   </li>
   <li><a href="https://coursera.org/share/c6b53dce4e3853b215b63e7c389613eb">Responsive Website Basics: Code with HTML, CSS, and JavaScript</a>
-  </li>
-  <li><a href="https://www.udemy.com/certificate/UC-24b8f495-169e-4cb5-936a-c9fa93c191f6/">Complete DApp - Solidity& React - Blockchain Development - Udemy</a>
   </li>
 </ul>
 <br>
