@@ -6,7 +6,7 @@
 
 <h3 align="center">I am actively seeking new opportunities</h3><br>
 <h4 align="center">
-<a href="https://drive.google.com/drive/folders/1KiUuqVph3jU6f24ZWav8FX57k1vf4Bq4"><img alt="Static Badge" src="https://img.shields.io/badge/Download%20My%20CV-006BFF" width="50">
+<a href="https://drive.google.com/drive/folders/1KiUuqVph3jU6f24ZWav8FX57k1vf4Bq4"><img alt="Static Badge" src="https://img.shields.io/badge/Download%20My%20CV-006BFF" width="150">
 </a>
  
 </h4>
