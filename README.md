@@ -12,16 +12,14 @@
 # 💫 About Me:
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
 <p>
-💼 Python Developer(LLM Testing on AWS SageMaker) @ <strong><a href="https://naamal.org/">Na'amal Agency</a></strong><be> (2-months project)
-💼 Front-end Developer @ <strong><a href="https://bookvoice.gr/">Bookvoice</a></strong><br> (internship)<br>
+💼 Python Developer (LLM Testing on AWS SageMaker) @ <strong><a href="https://naamal.org/">Na'amal Agency</a></strong> (2-months project)<br>
+💼 Front-end Developer @ <strong><a href="https://bookvoice.gr/">Bookvoice</a></strong> (internship)<br>
 🌱 Learning Computer and Data Science @ <strong><a href="https://emergingtalent.mit.edu/">MIT</a></strong><br>
 🌱 Learning Frontend Developer Career Path @ <strong><a href="https://scrimba.com/learn/frontend">Scrimba</a></strong><br>
  ⚡ <strong>Fun fact about me:</strong> My First flight ever was from <strong>Athens</strong> to <strong>Samos</strong> Island ✈️<br>
 💬 <strong>Ask me about:</strong> 🤓Coding!<br>
 </p>
 
-<br>
-<br>
 <br>
 <br>
 <br>
