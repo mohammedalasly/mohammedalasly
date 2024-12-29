@@ -13,7 +13,6 @@
 # 💫 About Me:
 <a href="https://app.daily.dev/mohammadalasli"><img src="https://api.daily.dev/devcards/v2/a4pCthsyxklqyBIousd3N.png?type=default&r=myp" align="right" width="270" alt="Mohammad Alasli's Dev Card"/></a>
 <p>
-<button>📑 Download My Resume here</button>
 💼 Python Developer (LLM Testing on AWS SageMaker) @ <strong><a href="https://naamal.org/">Na'amal Agency</a></strong> (project)<br>
 💼 Front-end Developer @ <strong><a href="https://bookvoice.gr/">Bookvoice</a></strong> (internship)<br>
 🌱 Learning Computer and Data Science @ <strong><a href="https://emergingtalent.mit.edu/">MIT</a></strong><br>
@@ -32,6 +31,8 @@
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#4488) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/mohammed.alasly.1/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohammad_alasli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalasli)
+<a href="https://drive.google.com/drive/folders/1KiUuqVph3jU6f24ZWav8FX57k1vf4Bq4"><img alt="Static Badge" src="https://img.shields.io/badge/Download_My_CV-blue"></a>
+
 <br>
 <br>
 <br>
