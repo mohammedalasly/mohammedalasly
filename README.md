@@ -38,7 +38,7 @@
 
 # 👨‍💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,tailwind,svelte,figma,vite,nodejs,nextjs,ts,firebase,py,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,CSS,js,ts,react,nextjs,tailwind,figma,ai,nodejs,express,fastapi,firebase,supabase,py)](https://skillicons.dev)
 
 <br>
 <br>
